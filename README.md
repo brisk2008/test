@@ -4,6 +4,6 @@
 
 仅限于测试与存放临时文件
 
-This is my test warehouse, you can contact me to obtain warehouse management rights and make any changes to it.
+This is my test repository, you can contact me to obtain repository management rights and make any changes to it.
 
 **Only for testing and storing temporary files**
