@@ -3,6 +3,14 @@ some text
 
 
 
+
+
+![](https://explee.oss-cn-beijing.aliyuncs.com/blog/posts/temp/10.png)
+
+
+
+
+
 **6月21日的超级日环食即将到来！**
 
 它是 **8年来国内第一次日环食**
@@ -10,6 +18,12 @@ some text
 也是 **10年内中国唯一的大日食**
 
 **超美金环日食**
+
+
+
+**记得千万不能直接用肉眼观看哦，戴墨镜也不行哦，一定保护好自己的眼睛！**
+
+
 
 
 
@@ -87,5 +101,5 @@ some text
 
 
 
-> 记得千万不能直接用肉眼观看哦，戴墨镜也不行哦，一定保护好自己的眼睛！
+![](https://explee.oss-cn-beijing.aliyuncs.com/blog/posts/temp/01.jpg)
 
